@@ -1,0 +1,150 @@
+.navbar-brand img {
+    margin-left: 50px;
+    width: 100px;
+}
+
+.navbar {
+    background-color: #323b41;
+}
+
+.navbar-nav {
+    margin-right: 60px;
+}
+
+#comprar-tickets {
+    color: #258f2b;
+}
+
+#img-ba1 {
+    height: 550px;
+    width: 100%;
+}
+
+#confBsAs {
+    background-image: url("./Imágenes/ba1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+}
+
+#confBsAs__text {
+    margin: 200px 100px 100px 0px;
+    text-align: right;
+}
+
+#confBsAs__text div {
+    font-weight: 500;
+}
+
+.borde-blanco {
+    border: 1px solid white;
+}
+
+#comprar-tickets__btn {
+    background-color: #258f2b;
+    color: white;
+}
+
+#bsAs-octubre {
+    background-color: #383838;
+    padding: 20px;
+}
+
+#bsAs-octubre__text {
+    font-size: 13px;
+}
+
+#conoce-oradores {
+    text-align: center;
+    font-size: 14px;
+    margin: 10px 0px 0px 0px;
+}
+
+.card {
+    width: 300px;
+}
+
+#conjunto-cards {    
+    justify-content: center;    
+}
+
+#JavaScript-sign {
+    background-color: #ffd119;    
+}
+
+#React-sign {
+    background-color: #08a8ff;    
+    color: white;
+}
+
+#Negocios-sign {
+    background-color: #5c5c5c;    
+    color: white;
+}
+
+#Startups-sign {
+    background-color: #ff1235;    
+    color: white;
+}
+
+#JavaScript-sign, #React-sign, #Negocios-sign, #Startups-sign {
+    font-weight: bold;
+    font-size: 11px;
+    padding: 4px;
+    border-radius: 7px;
+}
+
+#conviertete-orador {
+    text-align: center;
+    margin-top: 25px;
+    font-size: 14px;
+}
+
+#charla-ignite {
+    border-bottom: black 1px dotted;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#sobreQueHablar {
+    height: 100px;
+}
+
+#sobreQueHablar::placeholder {
+    align-self: flex-start;
+}
+
+#reminder {
+    font-size: 14px;
+}
+
+#boton-enviar {
+    width: 100%;
+    background-color: #7fbf4e;
+    color: white;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+
+form {
+    margin-bottom: 40px;
+}
+
+footer {
+    justify-content: center;    
+    background-color: #2b3f58;
+    height: 80px;
+    padding: 10px 100px;
+    align-items: center;    
+}
+
+footer .col {        
+    text-align: center;    
+}
+
+footer .col a {
+    text-decoration: none;
+    color: white;
+}
